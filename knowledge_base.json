@@ -1,0 +1,117 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hey there! How can I help you?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hey there",
+      "answer": "Hi. How can I help you?"
+    },
+    {
+      "question": "hey",
+      "answer": "Hey! How can I help you?"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello! How can I help you?"
+    },
+    {
+      "question": "What is a DNA?",
+      "answer": " DNA, or deoxyribonucleic acid, is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all known living organisms and many viruses. It's a double-helix structure composed of nucleotides, each containing a phosphate group, a sugar group, and a nitrogen base."
+    },
+    {
+      "question": "What are the differences between prokaryotic and eukaryotic cells?",
+      "answer": "Prokaryotic cells are single-celled organisms without a nucleus or other membrane-bound organelles. Eukaryotic cells are found in plants and animals and have a nucleus and organelles, making them more complex."
+    },
+    {
+      "question": "How do plants perform photosynthesis?",
+      "answer": "Plants use sunlight, carbon dioxide, and water to produce glucose and oxygen in a process known as photosynthesis. This occurs in the chloroplasts, using chlorophyll to capture sunlight."
+    },
+    {
+      "question": "What is natural selection?",
+      "answer": " Natural selection is the process by which organisms better adapted to their environment tend to survive and produce more offspring. This is a key mechanism of evolution."
+    },
+    {
+      "question": " What is an ecosystem?",
+      "answer": "An ecosystem is a community of living organisms in conjunction with the nonliving components of their environment, interacting\u00a0as\u00a0a\u00a0system."
+    },
+    {
+      "question": "Why is biodiversity important?",
+      "answer": "Biodiversity boosts ecosystem productivity and resilience, allowing it to withstand challenges and provide services such as air and water purification, pest management, and pollination."
+    },
+    {
+      "question": "How do vaccines work?",
+      "answer": "Vaccines stimulate the body's immune system to recognize and fight pathogens without causing the disease, providing future immunity."
+    },
+    {
+      "question": "What are stem cells?",
+      "answer": "Stem cells are undifferentiated cells capable of giving rise to indefinitely more cells of the same type and from which certain other kinds of cell arise by differentiation."
+    },
+    {
+      "question": "What is genetic mutation?",
+      "answer": "A genetic mutation is a change in the nucleotide sequence of the genetic material of an organism."
+    },
+    {
+      "question": "How do antibiotics work?",
+      "answer": "Antibiotics work by killing or inhibiting the growth of bacteria, targeting bacterial processes or structures."
+    },
+    {
+      "question": "What is osmosis?",
+      "answer": "Osmosis is the movement of water across a semipermeable membrane from an area of low solute concentration to an area of high solute concentration."
+    },
+    {
+      "question": "What is a gene?",
+      "answer": "A gene is a sequence of DNA that contains the information to produce a functional product, typically a protein."
+    },
+    {
+      "question": "What are enzymes?",
+      "answer": "Enzymes are proteins that act as biological catalysts, speeding up chemical reactions in cells."
+    },
+    {
+      "question": "What is a habitat?",
+      "answer": " A habitat is the natural environment in which a species lives and grows."
+    },
+    {
+      "question": "What is a food chain?",
+      "answer": "A food chain describes the feeding relationships between species within an ecosystem, showing how energy and nutrients flow from one organism to another."
+    },
+    {
+      "question": "What is an adaptation?",
+      "answer": "An adaptation is a trait that increases an organism's chance of survival and reproduction in a specific environment."
+    },
+    {
+      "question": "What is a chromosome?",
+      "answer": "A chromosome is a long DNA molecule with part or all of the genetic material of an organism."
+    },
+    {
+      "question": "what is biology?",
+      "answer": "Biology is the scientific study of living organisms and their interactions with their environment. It explores various aspects of life, including the structure, function, growth, origin, evolution, and distribution of organisms."
+    },
+    {
+      "question": "What is a cell",
+      "answer": "A cell is the basic structural and functional unit of all living organisms. It is the smallest unit of life that is capable of carrying out all the essential processes of life, such as metabolism, reproduction,"
+    },
+    {
+      "question": "What is a biosynthesis",
+      "answer": "Biosynthesis is the process by which living organisms produce complex molecules from simpler ones. It is a series of chemical reactions that occur within cells and are catalyzed by enzymes. These reactions involve the"
+    },
+    {
+      "question": "",
+      "answer": "I'm sorry, but I'm not able to generate that story for you."
+    },
+    {
+      "question": "are there any parts of human body that get oxygen directly from the air and not from the blood",
+      "answer": "No, there are no parts of the human body that directly obtain oxygen from the air without the involvement of the blood. Oxygen inhaled from the air is transported to various tissues and cells via the bloodstream"
+    }
+  ],
+  "sorry": [
+    {
+      "Sorry": "I couldn't find an answer to your question. Let me perform a web search"
+    }
+  ]
+}
